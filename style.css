@@ -1,0 +1,11 @@
+.task{
+  width: 232px; 
+  height:297px;
+  float: left;
+  overflow: scroll;
+}
+.img{
+  width: 560px;
+  height: 646.53px;
+  float: right;
+}
